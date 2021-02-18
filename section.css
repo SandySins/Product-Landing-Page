@@ -1,0 +1,171 @@
+header {
+  background-image: url("bg-header-desktop.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+
+}
+
+.text {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.img {
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+
+}
+
+Button {
+  background-color: hsl(171, 66%, 44%);
+  /* Green */
+  border: none;
+  color: white;
+  padding: 10px 50px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  text-decoration: none;
+  border-radius: 40px;
+  box-shadow: -1px 6px 10px 1px hsl(171, 62%, 70%);
+}
+
+.content {
+  width: 100%;
+}
+
+.button2 {
+  background-color: hsl(233, 100%, 69%);
+  box-shadow: -1px 6px 10px 1px hsl(233, 52%, 68%);
+}
+
+button:hover {
+  background-color: hsl(171, 95%, 22%);
+}
+
+.button2:hover {
+  background-color: hsl(233, 78%, 49%);
+}
+
+
+#trans {
+  background-color: transparent;
+  text-align: center;
+}
+
+#cent {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+#transs {
+  background-color: transparent;
+  text-align: center;
+}
+
+#cents {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+#tran {
+  background-color: transparent;
+  text-align: center;
+}
+
+#centss {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+
+.row {
+  margin-bottom: 2rem;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.imgs {
+  width: 100%;
+  height: auto;
+}
+
+
+
+.card {
+  height: auto;
+  width: 300px;
+  border: none;
+  margin-top: 20px;
+
+}
+
+.icon {
+  position: relative;
+  left: 40%;
+  width: 50px;
+}
+
+.cards {
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: none;
+  height: 100px;
+}
+
+footer {
+  background: rgb(231, 231, 231);
+  padding: 3rem 2rem;
+
+}
+
+#logo {
+  width: 60px;
+  position: relative;
+  top: 10px;
+
+}
+
+.fab {
+  width: 60px;
+  float: right;
+  position: relative;
+  top: 25px;
+
+}
+
+a {
+  color: black;
+}
+
+#marg {
+  margin-bottom: 0;
+  text-align: center;
+  margin-top: 10px;
+}
+
+#margs {
+  margin-bottom: 0;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  background: rgb(231, 231, 231);
+  margin: 0;
+
+}
